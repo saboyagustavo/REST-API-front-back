@@ -5,11 +5,21 @@ _Artigo de 15 de Janeiro de 2019_
 
 ## PASSO A PASSO
 
+### Preparando o ambiente back-end
+
 -   [x] iniciar um projeto node <code>npm init -y</code>
 -   [x] instalar o express.js <code>npm install express</code>
 -   [x] instalar o nodemon para continuar rodando sem precisar atualizar <code>npm install --save-dev nodemon</code>
 -   [x] Para rodar a aplicação nas dependências de desenvolvimento inserir no package.json a propriedade <code>"dev":"nodemon src/app.js",</code>
 -   [x] executar o projeto <code>npm run dev</code>
+
+### Preparando o front-end
+
+-   [x] fazer uma pasta dentro do projeto contendo um arquivo index.html;
+-   [x] criar uma lista com quatro outras listas aninhadas(estática);
+-   [x] instalar globalmente o pacote http-server;
+-   [x] rodar simultaneamente em dois terminais a API e o front-end;
+-   [x] utilizar método assíncrono <code>fetch(_path_)</code> para realizar as requisições;
 
 ## RESUMOS
 
