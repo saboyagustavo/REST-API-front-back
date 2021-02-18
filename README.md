@@ -13,6 +13,12 @@ _Artigo de 15 de Janeiro de 2019_
 -   [x] Para rodar a aplicação nas dependências de desenvolvimento inserir no package.json a propriedade <code>"dev":"nodemon src/app.js",</code>
 -   [x] executar o projeto <code>npm run dev</code>
 
+### Subindo a API
+
+-   [x] criar o json alunos e enviá-lo por método get;
+-   [x] escutar na porta 3000 através do método listen;
+-   [x] instalar a biblioteca cors para corrigir erro de acesso _cross origin_;
+
 ### Preparando o front-end
 
 -   [x] fazer uma pasta dentro do projeto contendo um arquivo index.html;
