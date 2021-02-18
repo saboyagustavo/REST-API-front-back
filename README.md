@@ -1,15 +1,15 @@
 # REST API com Node.js: back-end e front-end
 
-_Tutorial ministrado por Iago Cavalcante no blog [iMasters](https://imasters.com.br/back-end/rest-api-com-node-js-back-end-e-front-end)_
+_Tutorial ministrado por Iago Cavalcante no blog [iMasters](https://imasters.com.br/back-end/rest-api-com-node-js-back-end-e-front-end)_\
 _Artigo de 15 de Janeiro de 2019_
 
 ## PASSO A PASSO
 
--   iniciar um projeto node <code>npm init -y</code>
--   instalar o express.js <code>npm install express</code>
--   instalar o nodemon para continuar rodando sem precisar atualizar <code>npm install --save-dev nodemon</code>
--   Para rodar a aplicação nas dependências de desenvolvimento inserir no package.json a propriedade <code>"dev":"nodemon src/app.js",</code>
--   executar o projeto <code>npm run dev</code>
+-   [x] iniciar um projeto node <code>npm init -y</code>
+-   [x] instalar o express.js <code>npm install express</code>
+-   [x] instalar o nodemon para continuar rodando sem precisar atualizar <code>npm install --save-dev nodemon</code>
+-   [x] Para rodar a aplicação nas dependências de desenvolvimento inserir no package.json a propriedade <code>"dev":"nodemon src/app.js",</code>
+-   [x] executar o projeto <code>npm run dev</code>
 
 ## RESUMOS
 
