@@ -26,7 +26,11 @@ _Artigo de 15 de Janeiro de 2019_
 -   [x] criar uma lista com quatro itens aninhados(estaticamente);
 -   [x] instalar globalmente o pacote http-server;
 -   [x] rodar simultaneamente em dois terminais a API e o front-end;
+
+### Recebendo os dados no front-end e mostrando ao usuário
+
 -   [x] utilizar método assíncrono <code>fetch(_path_)</code> para realizar as requisições;
+-   [x] implementar função que utilize o método <code>forEach()</code> ou <code>map()</code> para percorrer os dados obtidos da API e criar dinamicamente os elementos HTML;
 
 ## RESUMOS
 
