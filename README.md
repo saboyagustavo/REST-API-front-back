@@ -18,11 +18,12 @@ _Artigo de 15 de Janeiro de 2019_
 -   [x] criar o json alunos e enviá-lo por método get;
 -   [x] escutar na porta 3000 através do método listen;
 -   [x] instalar a biblioteca cors para corrigir erro de acesso _cross origin_;
+-   [x] adicionar a lib via <code>require('cors')</code> como _middleware_ na API;
 
 ### Preparando o front-end
 
 -   [x] fazer uma pasta dentro do projeto contendo um arquivo index.html;
--   [x] criar uma lista com quatro outras listas aninhadas(estática);
+-   [x] criar uma lista com quatro itens aninhados(estaticamente);
 -   [x] instalar globalmente o pacote http-server;
 -   [x] rodar simultaneamente em dois terminais a API e o front-end;
 -   [x] utilizar método assíncrono <code>fetch(_path_)</code> para realizar as requisições;
