@@ -21,3 +21,8 @@ _Artigo de 15 de Janeiro de 2019_
 -   POST: envia novos dados
 -   DELETE: apaga um dados com um id como parâmetro
 -   PUT: atualiza um dado existente
+
+### Parâmetros do Método
+
+-   _req_: utilizado para obter informações que são mandadas para determinado URL;
+-   _res_: utilizado para enviar uma resposta para aquele que está requisitando;
