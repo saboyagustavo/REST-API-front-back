@@ -1,7 +1,7 @@
 # REST API com Node.js: back-end e front-end
 
-_Tutorial ministrado por Iago Cavalcante no blog [iMasters](https://imasters.com.br/back-end/rest-api-com-node-js-back-end-e-front-end)_\
-_Artigo de 15 de Janeiro de 2019_
+_Tutorial ministrado por [Iago Cavalcante](https://github.com/iagocavalcante/node-tutorial) no blog [iMasters](https://imasters.com.br/back-end/rest-api-com-node-js-back-end-e-front-end)_\
+_Artigo de 15 de Janeiro de 2019_\
 
 ## PASSO A PASSO
 
